@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.1 — 2026-10-18
+
+- Fix: bullets stopped tracking after equip. The game resets the weapon's
+  instance-level ranged attack package during equip/draw, so the one-time
+  override applied on equip was lost (the lock-on UI and stats stayed because
+  they live elsewhere). The script now re-asserts
+  `Attacks.SmartBulletHighPackage` from `WeaponTransition.GetDesiredAttackRecord`,
+  immediately before the player state machine picks the attack record.
+
 ## 1.0.0 — 2026-10-18
 
 - Initial release.

@@ -25,6 +25,8 @@ public class SmartGunApplier extends IScriptable
   private let m_player: wref<PlayerPuppet>;
   private let m_mods: array<ref<SgmStatMod>>;
   private let m_lastState: Int32;
+  private let m_appliedWeapon: wref<WeaponObject>;
+  private let m_package: ref<RangedAttackPackage_Record>;
 
   public static func Create(player: ref<PlayerPuppet>) -> ref<SmartGunApplier>
   {
@@ -128,11 +130,38 @@ public class SmartGunApplier extends IScriptable
 
     package = TweakDBInterface.GetRangedAttackPackageRecord(t"Attacks.SmartBulletHighPackage");
     if IsDefined(package) {
+      this.m_package = package;
       weapon.OverrideRangedAttackPackage(package);
     };
 
+    this.m_appliedWeapon = weapon;
     this.SendHandlerEvent(weapon, true);
     return true;
+  }
+
+  // 游戏会在装备/掏枪过程中把实例攻击包重置回记录默认值；每次选攻击前补回去
+  public final func EnsurePackage(weapon: ref<WeaponObject>) -> Void
+  {
+    let current: wref<RangedAttackPackage_Record>;
+
+    if !IsDefined(weapon) || !IsDefined(this.m_appliedWeapon) {
+      return;
+    };
+    if this.m_appliedWeapon.GetEntityID() != weapon.GetEntityID() {
+      return;
+    };
+
+    if !IsDefined(this.m_package) {
+      this.m_package = TweakDBInterface.GetRangedAttackPackageRecord(t"Attacks.SmartBulletHighPackage");
+    };
+    if !IsDefined(this.m_package) {
+      return;
+    };
+
+    current = weapon.GetCurrentRangedAttack();
+    if !IsDefined(current) || current.GetID() != this.m_package.GetID() {
+      weapon.OverrideRangedAttackPackage(this.m_package);
+    };
   }
 
   public final func Shutdown() -> Void
@@ -159,6 +188,7 @@ public class SmartGunApplier extends IScriptable
       i += 1;
     };
     ArrayClear(this.m_mods);
+    this.m_appliedWeapon = null;
   }
 
   private final func SendHandlerEvent(weapon: ref<WeaponObject>, enable: Bool) -> Void
@@ -186,7 +216,7 @@ public class SmartGunApplier extends IScriptable
 }
 
 @addField(PlayerPuppet)
-private let m_sgmApplier: ref<SmartGunApplier>;
+public let m_sgmApplier: ref<SmartGunApplier>;
 
 @wrapMethod(PlayerPuppet)
 protected cb func OnGameAttached() -> Bool
@@ -217,4 +247,15 @@ protected cb func OnWeaponEquipEvent(evt: ref<WeaponEquipEvent>) -> Bool
     this.m_sgmApplier.ApplyToActiveWeapon();
   };
   return result;
+}
+
+// 玩家每次选攻击包（每帧 Ready / 每次开枪）前，确保智能包仍在
+@wrapMethod(WeaponTransition)
+protected final func GetDesiredAttackRecord(stateContext: ref<StateContext>, scriptInterface: ref<StateGameScriptInterface>) -> ref<Attack_Record>
+{
+  let player: ref<PlayerPuppet> = scriptInterface.executionOwner as PlayerPuppet;
+  if IsDefined(player) && IsDefined(player.m_sgmApplier) {
+    player.m_sgmApplier.EnsurePackage(this.GetWeaponObject(scriptInterface));
+  };
+  return wrappedMethod(stateContext, scriptInterface);
 }

@@ -62,8 +62,9 @@ disable.bat "D:\SteamLibrary\steamapps\common\Cyberpunk 2077"
    - `Attacks.SmartBulletHighPackage`；
    - 一组智能枪 stat（锁定角、距离、锁定时间、追踪部位、弹速等）；
    - `EnableSmartGunHandlerEvent`。
-3. 原生智能枪处理器负责锁定框与追踪弹。
-4. 关闭（删除文件并重启）后所有记录恢复原版。
+3. 游戏在装备/掏枪过程中会把武器实例的攻击包重置回记录默认值，所以脚本在玩家每次选择攻击前（`WeaponTransition.GetDesiredAttackRecord`）检查并补回智能包。
+4. 原生智能枪处理器负责锁定框与追踪弹。
+5. 关闭（删除文件并重启）后所有记录恢复原版。
 
 ## 已知副作用（启用期间）
 

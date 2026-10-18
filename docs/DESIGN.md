@@ -32,7 +32,11 @@ On equip (and once shortly after loading a save), the redscript:
    - one locked target, one lock point, chest only;
    - reload/aim/swap behavior matching a simple single-target setup.
 4. Overrides the attack package with `Attacks.SmartBulletHighPackage`.
-5. Sends `EnableSmartGunHandlerEvent` to the weapon.
+5. Re-asserts that override in `WeaponTransition.GetDesiredAttackRecord`: the game resets the
+   instance attack package back to the record default during equip/draw, so a one-time override
+   is not enough. This wrapper runs every frame while the weapon is ready and again when the
+   shoot state is entered, immediately before the vanilla code reads the package.
+6. Sends `EnableSmartGunHandlerEvent` to the weapon.
 
 ## Why Tech weapons are excluded
 

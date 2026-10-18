@@ -1,0 +1,14 @@
+# Local game path used by the batch scripts
+game_path.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

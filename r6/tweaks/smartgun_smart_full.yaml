@@ -1,0 +1,2133 @@
+# 自动生成：710 条非 Tech 武器改为 Smart + 智能准星
+# Tech 武器保持原样（充能/穿透不受影响）；智能包由玩家脚本在装备时覆盖
+
+Items.Preset_Nue_Jackie.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Jackie.crosshair: Crosshairs.SmartGun
+
+Items.Proficiency_Craftable_Uncommon_Nue.evolution: WeaponEvolution.Smart
+Items.Proficiency_Craftable_Uncommon_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Q001_Lexington.evolution: WeaponEvolution.Smart
+Items.Preset_Q001_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Nue.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Maiko_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Maiko_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Unity.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Wilson.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Wilson.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Handgun.evolution: WeaponEvolution.Smart
+Items.Base_Power_Handgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Base_Lexington_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Base_Lexington_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Avg_10_Int_Netrunner_Weapon4.evolution: WeaponEvolution.Smart
+Items.Avg_10_Int_Netrunner_Weapon4.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Unity.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Padre.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Padre.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+TEST.TEST_Burning_Lexington.evolution: WeaponEvolution.Smart
+TEST.TEST_Burning_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Burning_Lexington.evolution: WeaponEvolution.Smart
+Items.CPO_Burning_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Base_Lexington.evolution: WeaponEvolution.Smart
+Items.Base_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.SemiAuto_Lexington.evolution: WeaponEvolution.Smart
+Items.SemiAuto_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Liberty.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Liberty.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Lexington.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Base_Nue.evolution: WeaponEvolution.Smart
+Items.Base_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Arasaka_2020.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Arasaka_2020.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Hard_20_Intelligence_Weapon2.evolution: WeaponEvolution.Smart
+Items.Hard_20_Intelligence_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Unity.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Dex.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Dex.crosshair: Crosshairs.SmartGun
+
+Items.Preset_V_Unity.evolution: WeaponEvolution.Smart
+Items.Preset_V_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_15_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_15_late.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+TEST.TEST_Poison_Lexington.evolution: WeaponEvolution.Smart
+TEST.TEST_Poison_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Agent.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Agent.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_15_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_15_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Wilson_Rare.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Wilson_Rare.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.mq011_wilson_gun.evolution: WeaponEvolution.Smart
+Items.mq011_wilson_gun.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tech_Handgun.evolution: WeaponEvolution.Smart
+Items.Base_Tech_Handgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Base_Lexington.evolution: WeaponEvolution.Smart
+Items.Preset_Base_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_V_Unity_Cutscene.evolution: WeaponEvolution.Smart
+Items.Preset_V_Unity_Cutscene.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Pimp_Left_Hand_2.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Pimp_Left_Hand_2.crosshair: Crosshairs.SmartGun
+
+Items.Weak_20_Cool_Weapon1.evolution: WeaponEvolution.Smart
+Items.Weak_20_Cool_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Base_Handgun.evolution: WeaponEvolution.Smart
+Items.Base_Handgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Maiko_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Maiko_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Base_Slaughtomatic_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Base_Slaughtomatic_Left_Hand.crosshair: Crosshairs.SmartGun
+
+TEST.TEST_EMP_Lexington.evolution: WeaponEvolution.Smart
+TEST.TEST_EMP_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Rogue_Stash.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Rogue_Stash.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Enemy_Nue.evolution: WeaponEvolution.Smart
+Items.CPO_Enemy_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Training.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Training.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Nue.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Bree.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Bree.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Liberty.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Liberty.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Unity.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Nue.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Toygun_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Toygun_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Unity.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Padre_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Padre_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Silenced_Lexington.evolution: WeaponEvolution.Smart
+Items.Silenced_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Liberty.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Liberty.crosshair: Crosshairs.SmartGun
+
+FunctionalTests.Preset_Lexington_LowDamage_FunctionalTests.evolution: WeaponEvolution.Smart
+FunctionalTests.Preset_Lexington_LowDamage_FunctionalTests.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_CoolRef_Weapon11.evolution: WeaponEvolution.Smart
+Items.VHard_50_CoolRef_Weapon11.crosshair: Crosshairs.SmartGun
+
+FunctionalTests.Preset_BaseLexington_FunctionalTests.evolution: WeaponEvolution.Smart
+FunctionalTests.Preset_BaseLexington_FunctionalTests.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Base_Slaughtomatic.evolution: WeaponEvolution.Smart
+Items.Base_Slaughtomatic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.CPO_EMP_Lexington.evolution: WeaponEvolution.Smart
+Items.CPO_EMP_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Yorinobu.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Yorinobu.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Lexington.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_15.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_15.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Default.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_TechCool_Weapon5.evolution: WeaponEvolution.Smart
+Items.VHard_50_TechCool_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Lexington.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_arr_06_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_arr_06_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Jackie_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Jackie_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Pimp_Left_Hand_2.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Pimp_Left_Hand_2.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Boris.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Boris.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Rook.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Rook.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Yorinobu_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Yorinobu_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Str_30_Cool_Assassin_Weapon2.evolution: WeaponEvolution.Smart
+Items.Str_30_Cool_Assassin_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_15_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_15_end.crosshair: Crosshairs.SmartGun
+
+Items.Base_Arasaka3D_Gun.evolution: WeaponEvolution.Smart
+Items.Base_Arasaka3D_Gun.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Liberty.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Liberty.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Base_Unity.evolution: WeaponEvolution.Smart
+Items.Base_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Lexington.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Prevention.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Prevention.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Nue.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Unity.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Unity.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Shooting_Competition.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Shooting_Competition.crosshair: Crosshairs.SmartGun
+
+Items.Weak_30_Weapon2.evolution: WeaponEvolution.Smart
+Items.Weak_30_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_arr_06_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_arr_06_mid.crosshair: Crosshairs.SmartGun
+
+Items.Weak_10_Weapon2.evolution: WeaponEvolution.Smart
+Items.Weak_10_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Base_Silverhand.evolution: WeaponEvolution.Smart
+Items.Base_Silverhand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Jackie_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Jackie_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Silverhand_Malorian.evolution: WeaponEvolution.Smart
+Items.Silverhand_Malorian.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Default_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Default_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Lexington.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Base_Liberty.evolution: WeaponEvolution.Smart
+Items.Base_Liberty.crosshair: Crosshairs.SmartGun
+
+Items.Base_Smart_Handgun.evolution: WeaponEvolution.Smart
+Items.Base_Smart_Handgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Wilson_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Wilson_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Hard_20_Intelligence_Weapon1.evolution: WeaponEvolution.Smart
+Items.Hard_20_Intelligence_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Lexington.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Wilson_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Wilson_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Base_Slaughtomatic.evolution: WeaponEvolution.Smart
+Items.Preset_Base_Slaughtomatic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Dex_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Dex_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_arr_06.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_arr_06.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_15_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_15_mid.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Rogue.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Rogue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Pimp_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Pimp_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Arasaka_2077.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Arasaka_2077.crosshair: Crosshairs.SmartGun
+
+Items.q115_pistol.evolution: WeaponEvolution.Smart
+Items.q115_pistol.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_CoolRef_Weapon5.evolution: WeaponEvolution.Smart
+Items.VHard_50_CoolRef_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Dex_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Dex_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Toygun.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Toygun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Arasaka_2020_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Arasaka_2020_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Krausser_Jurij.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Krausser_Jurij.crosshair: Crosshairs.SmartGun
+
+TEST.TEST_Bleeding_Lexington.evolution: WeaponEvolution.Smart
+TEST.TEST_Bleeding_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_CoolRef_Weapon1.evolution: WeaponEvolution.Smart
+Items.VHard_50_CoolRef_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Normal_20_Melee_Weapon5.evolution: WeaponEvolution.Smart
+Items.Normal_20_Melee_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Arasaka_2020_Left_Hand1.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Arasaka_2020_Left_Hand1.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Enemy_Lexington.evolution: WeaponEvolution.Smart
+Items.CPO_Enemy_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Maiko.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Maiko.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_arr_06_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_arr_06_end.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_arr_06_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_arr_06_late.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Liberty.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Liberty.crosshair: Crosshairs.SmartGun
+
+TEST.WoundedRifle.evolution: WeaponEvolution.Smart
+TEST.WoundedRifle.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Jackie_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Jackie_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Nue.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Nue.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Neon_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Neon_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Lexington_Krausser_Jago.evolution: WeaponEvolution.Smart
+Items.Preset_Lexington_Krausser_Jago.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Pimp_Left_Hand_2.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Pimp_Left_Hand_2.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Nue.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Nue.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Lexington.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Lexington.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Angelica.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Angelica.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nue_Arasaka_2020_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Nue_Arasaka_2020_Unbreakable.crosshair: Crosshairs.SmartGun
+
+TEST.GoldenGun.evolution: WeaponEvolution.Smart
+TEST.GoldenGun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Unity_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Unity_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.StartingWeaponGeneric.evolution: WeaponEvolution.Smart
+Items.StartingWeaponGeneric.crosshair: Crosshairs.SmartGun
+
+Items.Normal_20_Netrunner_Weapon4.evolution: WeaponEvolution.Smart
+Items.Normal_20_Netrunner_Weapon4.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Silverhand_3516.evolution: WeaponEvolution.Smart
+Items.Preset_Silverhand_3516.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Liberty_Yorinobu_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Liberty_Yorinobu_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Nova.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Neon_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Neon_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Doom_Doom.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Doom_Doom.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Nova.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Cassidy.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Cassidy.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Kerry.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Kerry.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_R.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_R.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Overture.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Overture.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Pimp_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Pimp_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Base_Metel.evolution: WeaponEvolution.Smart
+Items.Base_Metel.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tech_Revolver.evolution: WeaponEvolution.Smart
+Items.Base_Tech_Revolver.crosshair: Crosshairs.SmartGun
+
+Items.Base_Revolver.evolution: WeaponEvolution.Smart
+Items.Base_Revolver.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_04_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_04_mid.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Neon.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Overture.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Overture.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Metel.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Metel.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Overture.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Overture.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Dodger.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Dodger.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_BodyCool_Weapon3.evolution: WeaponEvolution.Smart
+Items.VHard_50_BodyCool_Weapon3.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Dante.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Dante.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Nova.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Revolver.evolution: WeaponEvolution.Smart
+Items.Base_Power_Revolver.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Overture.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Overture.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Hitman.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Hitman.crosshair: Crosshairs.SmartGun
+
+Items.sq029_rivers_gun.evolution: WeaponEvolution.Smart
+Items.sq029_rivers_gun.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_TechCool_Weapon9.evolution: WeaponEvolution.Smart
+Items.VHard_50_TechCool_Weapon9.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_04_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_04_end.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Doom_Doom_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Doom_Doom_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_BodyCool_Weapon11.evolution: WeaponEvolution.Smart
+Items.VHard_50_BodyCool_Weapon11.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.q115_revolver.evolution: WeaponEvolution.Smart
+Items.q115_revolver.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Kerry_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Kerry_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_Kurt.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_Kurt.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Metel.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Metel.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Doom_Doom_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Doom_Doom_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Overture.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Overture.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Pimp_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Pimp_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_U.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_U.crosshair: Crosshairs.SmartGun
+
+Items.Base_Overture.evolution: WeaponEvolution.Smart
+Items.Base_Overture.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MQ008_Nova.evolution: WeaponEvolution.Smart
+Items.Preset_MQ008_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_04.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_04.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_E.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_E.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_BodyCool_Weapon13.evolution: WeaponEvolution.Smart
+Items.VHard_50_BodyCool_Weapon13.crosshair: Crosshairs.SmartGun
+
+Items.q114_cassidy_revolver.evolution: WeaponEvolution.Smart
+Items.q114_cassidy_revolver.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Metel.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Metel.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_AirDrop.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_AirDrop.crosshair: Crosshairs.SmartGun
+
+Items.Base_Nova.evolution: WeaponEvolution.Smart
+Items.Base_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_River.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_River.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Neon_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Neon_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Cassidy_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Cassidy_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Default.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Nova.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefTech_Weapon9.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefTech_Weapon9.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_CoolRef_Weapon9.evolution: WeaponEvolution.Smart
+Items.VHard_50_CoolRef_Weapon9.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Nova.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Kerry_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Kerry_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_04_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_04_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_04_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_04_late.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Metel.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Metel.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Overture.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Overture.crosshair: Crosshairs.SmartGun
+
+FunctionalTests.Base_Overture_HighDamage_FunctionalTests.evolution: WeaponEvolution.Smart
+FunctionalTests.Base_Overture_HighDamage_FunctionalTests.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Proficiency_Craftable_Rare_Nova.evolution: WeaponEvolution.Smart
+Items.Proficiency_Craftable_Rare_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Nova.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Nova.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Metel_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Metel_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_L.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_L.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Q000_Nomad.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Q000_Nomad.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Default_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Default_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Default_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Default_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Metel.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Metel.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Overture_River_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Overture_River_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Nova_Scene.evolution: WeaponEvolution.Smart
+Items.Preset_Nova_Scene.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_cct_dtn_03_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_cct_dtn_03_end.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Mine_Right.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Mine_Right.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Crusher.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Crusher.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Pozhar.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Pozhar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Pozhar.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Pozhar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Pimp_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Pimp_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Military.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Self_Left.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Self_Left.crosshair: Crosshairs.SmartGun
+
+Items.Delamain_Launcher_Base.evolution: WeaponEvolution.Smart
+Items.Delamain_Launcher_Base.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pozhar_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Pozhar_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Edgerunners_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Edgerunners_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_08.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_08.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Power_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Auto_Shotgun.evolution: WeaponEvolution.Smart
+Items.Smasher_Auto_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Amazon.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Amazon.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Track_Left.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Track_Left.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Carnage.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_08_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_08_late.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pozhar_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Pozhar_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Enemy_Tactician.evolution: WeaponEvolution.Smart
+Items.CPO_Enemy_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Rain.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Rain.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Rain.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Rain.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pozhar_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Pozhar_Default.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Rain_Left.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Rain_Left.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pozhar_AirDrop.evolution: WeaponEvolution.Smart
+Items.Preset_Pozhar_AirDrop.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Mine_Left.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Mine_Left.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_cct_dtn_03_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_cct_dtn_03_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Neon_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Neon_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Proficiency_Craftable_Legendary_Carnage.evolution: WeaponEvolution.Smart
+Items.Proficiency_Craftable_Legendary_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Base_Crusher.evolution: WeaponEvolution.Smart
+Items.Base_Crusher.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Carnage.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_cct_dtn_03_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_cct_dtn_03_mid.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Base.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Base.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Base.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Base.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Tactician.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_bls_ina_se1_07_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_bls_ina_se1_07_early.crosshair: Crosshairs.SmartGun
+
+Items.Minotaur_Launcher_Base.evolution: WeaponEvolution.Smart
+Items.Minotaur_Launcher_Base.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Rocket_Right.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Rocket_Right.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Headsman.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Headsman.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Tactician.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Proficiency_Craftable_Epic_Tactician.evolution: WeaponEvolution.Smart
+Items.Proficiency_Craftable_Epic_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.q115_shotgun.evolution: WeaponEvolution.Smart
+Items.q115_shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Rain_Right.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Rain_Right.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Rain_Left.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Rain_Left.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Mox_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Mox_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Base_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Crusher.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Crusher.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Dino.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Dino.crosshair: Crosshairs.SmartGun
+
+Items.Common_Tactician_Headsman.evolution: WeaponEvolution.Smart
+Items.Common_Tactician_Headsman.crosshair: Crosshairs.SmartGun
+
+Items.Base_Carnage.evolution: WeaponEvolution.Smart
+Items.Base_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Pozhar.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Pozhar.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tech_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Tech_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pozhar_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Pozhar_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefBody_Weapon2.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefBody_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Tactician.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_cct_dtn_03_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_cct_dtn_03_late.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Rocket_Left.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Rocket_Left.crosshair: Crosshairs.SmartGun
+
+Items.Base_Smart_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Smart_Shotgun.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Carnage.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Tactician.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Default_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Default_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Crusher.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Crusher.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_bls_ina_se1_07_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_bls_ina_se1_07_mid.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Tactician.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Prevention.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Prevention.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_bls_ina_se1_07_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_bls_ina_se1_07_late.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_08_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_08_early.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefBody_Weapon4.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefBody_Weapon4.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Pimp_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Pimp_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Carnage.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Carnage.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Rocket.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Rocket.crosshair: Crosshairs.SmartGun
+
+Items.Minotaur_Launcher_Right.evolution: WeaponEvolution.Smart
+Items.Minotaur_Launcher_Right.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Military_Retrofix.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Military_Retrofix.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_Launcher_Rain_Right.evolution: WeaponEvolution.Smart
+Items.Smasher_Launcher_Rain_Right.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Pozhar.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Pozhar.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Self_Right.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Self_Right.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Default_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Default_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Chandelier_Left.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Chandelier_Left.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_08_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_08_end.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Crusher.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Crusher.crosshair: Crosshairs.SmartGun
+
+Items.Hard_20_Body_Weapon1.evolution: WeaponEvolution.Smart
+Items.Hard_20_Body_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Epic_Tactician_Headsman.evolution: WeaponEvolution.Smart
+Items.Epic_Tactician_Headsman.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Neon_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Neon_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Edgerunners.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Edgerunners.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Mox_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Mox_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_bls_ina_se1_07.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_bls_ina_se1_07.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_bls_ina_se1_07_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_bls_ina_se1_07_end.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Crusher.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Crusher.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Chandelier_Right.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Chandelier_Right.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Carnage_Mox.evolution: WeaponEvolution.Smart
+Items.Preset_Carnage_Mox.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Crusher_Military_Left_Hand.evolution: WeaponEvolution.Smart
+Items.Preset_Crusher_Military_Left_Hand.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Tactician.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Dino_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Dino_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tactician.evolution: WeaponEvolution.Smart
+Items.Base_Tactician.crosshair: Crosshairs.SmartGun
+
+Items.Base_Pozhar.evolution: WeaponEvolution.Smart
+Items.Base_Pozhar.crosshair: Crosshairs.SmartGun
+
+Items.Uncommon_Tactician_Headsman.evolution: WeaponEvolution.Smart
+Items.Uncommon_Tactician_Headsman.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Carnage.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Carnage.crosshair: Crosshairs.SmartGun
+
+Items.Rare_Tactician_Headsman.evolution: WeaponEvolution.Smart
+Items.Rare_Tactician_Headsman.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_cct_dtn_03.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_cct_dtn_03.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pozhar_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Pozhar_Military.crosshair: Crosshairs.SmartGun
+
+Items.Legendary_Tactician_Headsman.evolution: WeaponEvolution.Smart
+Items.Legendary_Tactician_Headsman.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Tactician_Headsman_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Tactician_Headsman_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefBody_Weapon5.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefBody_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_pac_cvi_08_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_pac_cvi_08_mid.crosshair: Crosshairs.SmartGun
+
+Items.Minotaur_Launcher_Left.evolution: WeaponEvolution.Smart
+Items.Minotaur_Launcher_Left.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Pozhar.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Pozhar.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Launcher_Track_Right.evolution: WeaponEvolution.Smart
+Items.Chimera_Launcher_Track_Right.crosshair: Crosshairs.SmartGun
+
+Items.Common_Igla_Sovereign.evolution: WeaponEvolution.Smart
+Items.Common_Igla_Sovereign.crosshair: Crosshairs.SmartGun
+
+Items.Uncommon_Igla_Sovereign.evolution: WeaponEvolution.Smart
+Items.Uncommon_Igla_Sovereign.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Testera_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Testera_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Igla.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Igla.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Testera.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Testera.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Igla.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Igla.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Igla_Sovereign_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Igla_Sovereign_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Testera_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Testera_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Testera_Nicolas.evolution: WeaponEvolution.Smart
+Items.Preset_Testera_Nicolas.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Testera.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Testera.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Igla_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Igla_Default.crosshair: Crosshairs.SmartGun
+
+Items.Base_Testera.evolution: WeaponEvolution.Smart
+Items.Base_Testera.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Dual_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Power_Dual_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Igla_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Igla_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Testera_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Testera_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Igla_Sovereign.evolution: WeaponEvolution.Smart
+Items.Preset_Igla_Sovereign.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Igla.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Igla.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefBody_Weapon6.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefBody_Weapon6.crosshair: Crosshairs.SmartGun
+
+Items.Base_Igla.evolution: WeaponEvolution.Smart
+Items.Base_Igla.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Testera_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Testera_Default.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Testera.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Testera.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Igla.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Igla.crosshair: Crosshairs.SmartGun
+
+Items.Base_Dual_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Dual_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_BodyCool_Weapon17.evolution: WeaponEvolution.Smart
+Items.VHard_50_BodyCool_Weapon17.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_nid_22_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_nid_22_late.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Igla_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Igla_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Testera.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Testera.crosshair: Crosshairs.SmartGun
+
+Items.Legendary_Igla_Sovereign.evolution: WeaponEvolution.Smart
+Items.Legendary_Igla_Sovereign.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_nid_22_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_nid_22_end.crosshair: Crosshairs.SmartGun
+
+Items.Epic_Igla_Sovereign.evolution: WeaponEvolution.Smart
+Items.Epic_Igla_Sovereign.crosshair: Crosshairs.SmartGun
+
+Items.Base_Smart_Dual_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Smart_Dual_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tech_Dual_Shotgun.evolution: WeaponEvolution.Smart
+Items.Base_Tech_Dual_Shotgun.crosshair: Crosshairs.SmartGun
+
+Items.Rare_Igla_Sovereign.evolution: WeaponEvolution.Smart
+Items.Rare_Igla_Sovereign.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_nid_22_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_nid_22_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Igla_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Igla_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Igla.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Igla.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Testera.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Testera.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_BodyCool_Weapon16.evolution: WeaponEvolution.Smart
+Items.VHard_50_BodyCool_Weapon16.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_nid_22.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_nid_22.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_nid_22_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_nid_22_mid.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Igla.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Igla.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Neon.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefBody_Weapon3.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefBody_Weapon3.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Umbra.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Umbra.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Genesis_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Genesis_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_06_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_06_end.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Masamune.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Copperhead.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Kyubi.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Kyubi.crosshair: Crosshairs.SmartGun
+
+Items.Base_Copperhead.evolution: WeaponEvolution.Smart
+Items.Base_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_sts_wat_nid_01.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_sts_wat_nid_01.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Collectible.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Collectible.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_sts_wat_nid_01_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_sts_wat_nid_01_mid.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_sts_wat_nid_01_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_sts_wat_nid_01_late.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Masamune.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Legendary_Copperhead_Genesis.evolution: WeaponEvolution.Smart
+Items.Legendary_Copperhead_Genesis.crosshair: Crosshairs.SmartGun
+
+Items.Rare_Ajax_Moron.evolution: WeaponEvolution.Smart
+Items.Rare_Ajax_Moron.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Prevention.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Prevention.crosshair: Crosshairs.SmartGun
+
+TEST.ThermalCopperhead.evolution: WeaponEvolution.Smart
+TEST.ThermalCopperhead.crosshair: Crosshairs.SmartGun
+
+Items.Arasaka3DEnemyWeapon.evolution: WeaponEvolution.Smart
+Items.Arasaka3DEnemyWeapon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Training.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Training.crosshair: Crosshairs.SmartGun
+
+Items.Uncommon_Copperhead_Genesis.evolution: WeaponEvolution.Smart
+Items.Uncommon_Copperhead_Genesis.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Ajax.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Ajax.crosshair: Crosshairs.SmartGun
+
+Items.Rare_Copperhead_Genesis.evolution: WeaponEvolution.Smart
+Items.Rare_Copperhead_Genesis.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Proficiency_Craftable_Uncommon_Copperhead.evolution: WeaponEvolution.Smart
+Items.Proficiency_Craftable_Uncommon_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Kyubi.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Kyubi.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Ajax.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Ajax.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Umbra.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Umbra.crosshair: Crosshairs.SmartGun
+
+Items.Base_Smart_Assault_Rifle.evolution: WeaponEvolution.Smart
+Items.Base_Smart_Assault_Rifle.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_06_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_06_mid.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Enemy_Copperhead.evolution: WeaponEvolution.Smart
+Items.CPO_Enemy_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_06_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_06_early.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Copperhead.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Prevention.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Prevention.crosshair: Crosshairs.SmartGun
+
+Items.Base_Masamune.evolution: WeaponEvolution.Smart
+Items.Base_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Flashlight.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Flashlight.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Umbra.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Umbra.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Rogue.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Rogue.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Kyubi.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Kyubi.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Masamune.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Arasaka_2077.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Arasaka_2077.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_sts_wat_nid_01_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_sts_wat_nid_01_end.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Base_Masamune.evolution: WeaponEvolution.Smart
+Items.Preset_Base_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Flashlight_Shadows.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Flashlight_Shadows.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Kyubi.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Kyubi.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Assault_Rifle.evolution: WeaponEvolution.Smart
+Items.Base_Power_Assault_Rifle.crosshair: Crosshairs.SmartGun
+
+Items.Legendary_Ajax_Moron.evolution: WeaponEvolution.Smart
+Items.Legendary_Ajax_Moron.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Military_Crowd.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Military_Crowd.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Umbra.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Umbra.crosshair: Crosshairs.SmartGun
+
+Items.Base_Assault_Rifle.evolution: WeaponEvolution.Smart
+Items.Base_Assault_Rifle.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Military.crosshair: Crosshairs.SmartGun
+
+Items.Epic_Copperhead_Genesis.evolution: WeaponEvolution.Smart
+Items.Epic_Copperhead_Genesis.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_06.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_06.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Copperhead.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_hey_spr_06_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_hey_spr_06_late.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Masamune.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Base_Kyubi.evolution: WeaponEvolution.Smart
+Items.Base_Kyubi.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Amazon.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Amazon.crosshair: Crosshairs.SmartGun
+
+Items.Normal_20_Netrunner_Weapon1.evolution: WeaponEvolution.Smart
+Items.Normal_20_Netrunner_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Ajax.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Ajax.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Myers.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Myers.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Kyubi.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Kyubi.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Masamune.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Base_Ajax.evolution: WeaponEvolution.Smart
+Items.Base_Ajax.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Genesis.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Genesis.crosshair: Crosshairs.SmartGun
+
+Items.Hard_20_Reflex_Weapon1.evolution: WeaponEvolution.Smart
+Items.Hard_20_Reflex_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Common_Copperhead_Genesis.evolution: WeaponEvolution.Smart
+Items.Common_Copperhead_Genesis.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Amazon.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Amazon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Copperhead.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Military.crosshair: Crosshairs.SmartGun
+
+Items.Epic_Ajax_Moron.evolution: WeaponEvolution.Smart
+Items.Epic_Ajax_Moron.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_IntRef_Weapon5.evolution: WeaponEvolution.Smart
+Items.VHard_50_IntRef_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Uncommon_Ajax_Moron.evolution: WeaponEvolution.Smart
+Items.Uncommon_Ajax_Moron.crosshair: Crosshairs.SmartGun
+
+Items.Hard_30_Reflex_Weapon2.evolution: WeaponEvolution.Smart
+Items.Hard_30_Reflex_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Rogue_Stash.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Rogue_Stash.crosshair: Crosshairs.SmartGun
+
+TEST.DodgeAbilityRifle.evolution: WeaponEvolution.Smart
+TEST.DodgeAbilityRifle.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Arasaka_2020.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Arasaka_2020.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Scene.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Scene.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Moron.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Moron.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tech_Assault_Rifle.evolution: WeaponEvolution.Smart
+Items.Base_Tech_Assault_Rifle.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Base_Copperhead.evolution: WeaponEvolution.Smart
+Items.Preset_Base_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Umbra.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Umbra.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Moron_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Moron_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Copperhead.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Copperhead.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Copperhead.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Common_Ajax_Moron.evolution: WeaponEvolution.Smart
+Items.Common_Ajax_Moron.crosshair: Crosshairs.SmartGun
+
+Items.Base_Umbra.evolution: WeaponEvolution.Smart
+Items.Base_Umbra.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Kyubi_Nusa.evolution: WeaponEvolution.Smart
+Items.Preset_Kyubi_Nusa.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_sts_wat_nid_01_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_sts_wat_nid_01_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Ajax_Military_MaxTac_2nd_wave.evolution: WeaponEvolution.Smart
+Items.Preset_Ajax_Military_MaxTac_2nd_wave.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Genesis_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Genesis_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Default.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Copperhead.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Copperhead.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Trauma.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Trauma.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Ajax.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Ajax.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Bebe.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Bebe.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Copperhead_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Copperhead_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Umbra_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Umbra_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Masamune.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Masamune.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Masamune_Arasaka_2077_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Masamune_Arasaka_2077_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Ajax.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Ajax.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Military_Crowd.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Military_Crowd.crosshair: Crosshairs.SmartGun
+
+Items.Legendary_Borg4a_HauntedGun.evolution: WeaponEvolution.Smart
+Items.Legendary_Borg4a_HauntedGun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Buzzsaw_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Buzzsaw_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Borg4a_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Borg4a_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Proficiency_Craftable_Rare_Pulsar.evolution: WeaponEvolution.Smart
+Items.Proficiency_Craftable_Rare_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Saratoga.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Arasaka_2077.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Arasaka_2077.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Guillotine.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Guillotine.crosshair: Crosshairs.SmartGun
+
+Items.Epic_Borg4a_HauntedGun.evolution: WeaponEvolution.Smart
+Items.Epic_Borg4a_HauntedGun.crosshair: Crosshairs.SmartGun
+
+Items.Base_Saratoga.evolution: WeaponEvolution.Smart
+Items.Base_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Neon_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Neon_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Rare_Pulsar_Buzzsaw.evolution: WeaponEvolution.Smart
+Items.Rare_Pulsar_Buzzsaw.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Pulsar.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Maelstrom_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Maelstrom_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Base_Borg4a.evolution: WeaponEvolution.Smart
+Items.Base_Borg4a.crosshair: Crosshairs.SmartGun
+
+Items.Hard_30_Reflex_Weapon5.evolution: WeaponEvolution.Smart
+Items.Hard_30_Reflex_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Hard_30_Reflex_Weapon1.evolution: WeaponEvolution.Smart
+Items.Hard_30_Reflex_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_IntRef_Weapon6.evolution: WeaponEvolution.Smart
+Items.VHard_50_IntRef_Weapon6.crosshair: Crosshairs.SmartGun
+
+Items.Normal_20_Melee_Weapon3.evolution: WeaponEvolution.Smart
+Items.Normal_20_Melee_Weapon3.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Maelstrom.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Maelstrom.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Arasaka_2077_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Arasaka_2077_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Pimp_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Pimp_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Hard_20_Reflex_Weapon2.evolution: WeaponEvolution.Smart
+Items.Hard_20_Reflex_Weapon2.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Military.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Pulsar.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Saratoga.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Base_Submachinegun.evolution: WeaponEvolution.Smart
+Items.Base_Submachinegun.crosshair: Crosshairs.SmartGun
+
+Items.Rare_Borg4a_HauntedGun.evolution: WeaponEvolution.Smart
+Items.Rare_Borg4a_HauntedGun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Guillotine.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Guillotine.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Saratoga.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Pulsar.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Default.crosshair: Crosshairs.SmartGun
+
+Items.Common_Borg4a_HauntedGun.evolution: WeaponEvolution.Smart
+Items.Common_Borg4a_HauntedGun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Raffen_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Raffen_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Raffen_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Raffen_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Submachinegun.evolution: WeaponEvolution.Smart
+Items.Base_Power_Submachinegun.crosshair: Crosshairs.SmartGun
+
+Items.Uncommon_Borg4a_HauntedGun.evolution: WeaponEvolution.Smart
+Items.Uncommon_Borg4a_HauntedGun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_rcr_11_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_rcr_11_early.crosshair: Crosshairs.SmartGun
+
+Items.Legendary_Pulsar_Buzzsaw.evolution: WeaponEvolution.Smart
+Items.Legendary_Pulsar_Buzzsaw.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Maelstrom_Epic.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Maelstrom_Epic.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Default_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Default_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Raffen.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Raffen.crosshair: Crosshairs.SmartGun
+
+Items.Base_Smart_Submachinegun.evolution: WeaponEvolution.Smart
+Items.Base_Smart_Submachinegun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Default_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Default_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Epic_Pulsar_Buzzsaw.evolution: WeaponEvolution.Smart
+Items.Epic_Pulsar_Buzzsaw.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Guillotine.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Guillotine.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Borg4a_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Borg4a_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Krausser.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Krausser.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_rcr_11_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_rcr_11_mid.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_rcr_11.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_rcr_11.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Default_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Default_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Base_Guillotine.evolution: WeaponEvolution.Smart
+Items.Base_Guillotine.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_rcr_11_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_rcr_11_late.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Military.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Saratoga.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Base_Pulsar.evolution: WeaponEvolution.Smart
+Items.Base_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Saratoga.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_IntTech_Weapon5.evolution: WeaponEvolution.Smart
+Items.VHard_50_IntTech_Weapon5.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Pulsar.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Buzzsaw.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Buzzsaw.crosshair: Crosshairs.SmartGun
+
+Items.Common_Pulsar_Buzzsaw.evolution: WeaponEvolution.Smart
+Items.Common_Pulsar_Buzzsaw.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Saratoga.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Borg4a_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Borg4a_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Collectible.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Collectible.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Pimp_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Pimp_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Neon_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Neon_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Uncommon_Pulsar_Buzzsaw.evolution: WeaponEvolution.Smart
+Items.Uncommon_Pulsar_Buzzsaw.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Saratoga.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Saratoga.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Buzzsaw_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Buzzsaw_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Default.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Guillotine.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Guillotine.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Military_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Military_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_std_rcr_11_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_std_rcr_11_end.crosshair: Crosshairs.SmartGun
+
+TEST.ItemPass_Pulsar.evolution: WeaponEvolution.Smart
+TEST.ItemPass_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Pulsar_Pimp_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Pulsar_Pimp_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Guillotine_Neon_Unbreakable.evolution: WeaponEvolution.Smart
+Items.Preset_Guillotine_Neon_Unbreakable.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Borg4a_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Borg4a_Military.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Pulsar.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Pulsar.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Borg4a_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Borg4a_Default.crosshair: Crosshairs.SmartGun
+
+Items.Base_Tech_Submachinegun.evolution: WeaponEvolution.Smart
+Items.Base_Tech_Submachinegun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Saratoga_Arasaka_2020.evolution: WeaponEvolution.Smart
+Items.Preset_Saratoga_Arasaka_2020.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Guillotine.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Guillotine.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Borg4a_HauntedGun.evolution: WeaponEvolution.Smart
+Items.Preset_Borg4a_HauntedGun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MA70_Default.evolution: WeaponEvolution.Smart
+Items.Preset_MA70_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_lch_06_late.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_lch_06_late.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_MA70.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_MA70.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MA70_Legendary.evolution: WeaponEvolution.Smart
+Items.Preset_MA70_Legendary.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_MA70.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_MA70.crosshair: Crosshairs.SmartGun
+
+Items.Base_Power_Lightmachinegun.evolution: WeaponEvolution.Smart
+Items.Base_Power_Lightmachinegun.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MA70_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_MA70_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_Defender.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Hard_30_BodyTech_Weapon3.evolution: WeaponEvolution.Smart
+Items.Hard_30_BodyTech_Weapon3.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_Defender.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MA70_Military.evolution: WeaponEvolution.Smart
+Items.Preset_MA70_Military.crosshair: Crosshairs.SmartGun
+
+Items.Hard_20_Body_Weapon3.evolution: WeaponEvolution.Smart
+Items.Hard_20_Body_Weapon3.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MA70_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_MA70_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Defender_Military.evolution: WeaponEvolution.Smart
+Items.Preset_Defender_Military.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Legendary_MA70.evolution: WeaponEvolution.Smart
+Items.Craftable_Legendary_MA70.crosshair: Crosshairs.SmartGun
+
+Items.Base_Lightmachinegun.evolution: WeaponEvolution.Smart
+Items.Base_Lightmachinegun.crosshair: Crosshairs.SmartGun
+
+Items.Base_MA70.evolution: WeaponEvolution.Smart
+Items.Base_MA70.crosshair: Crosshairs.SmartGun
+
+Items.Base_Defender.evolution: WeaponEvolution.Smart
+Items.Base_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_Defender.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_lch_06_early.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_lch_06_early.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Defender_Default.evolution: WeaponEvolution.Smart
+Items.Preset_Defender_Default.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_lch_06_mid.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_lch_06_mid.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_lch_06.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_lch_06.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_BodyCool_Weapon1.evolution: WeaponEvolution.Smart
+Items.VHard_50_BodyCool_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Rare_Defender.evolution: WeaponEvolution.Smart
+Items.Craftable_Rare_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Defender_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_Defender_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_MA70_Collectible.evolution: WeaponEvolution.Smart
+Items.Preset_MA70_Collectible.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Defender_MaxTac_2nd_wave.evolution: WeaponEvolution.Smart
+Items.Preset_Defender_MaxTac_2nd_wave.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Base_Defender.evolution: WeaponEvolution.Smart
+Items.CPO_Base_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Defender_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_Defender_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Common_MA70.evolution: WeaponEvolution.Smart
+Items.Craftable_Common_MA70.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Psycho_ma_wat_lch_06_end.evolution: WeaponEvolution.Smart
+Items.Preset_Psycho_ma_wat_lch_06_end.crosshair: Crosshairs.SmartGun
+
+Items.CPO_Enemy_Defender.evolution: WeaponEvolution.Smart
+Items.CPO_Enemy_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Uncommon_Defender.evolution: WeaponEvolution.Smart
+Items.Craftable_Uncommon_Defender.crosshair: Crosshairs.SmartGun
+
+Items.Craftable_Epic_MA70.evolution: WeaponEvolution.Smart
+Items.Craftable_Epic_MA70.crosshair: Crosshairs.SmartGun
+
+Items.VHard_50_RefBody_Weapon1.evolution: WeaponEvolution.Smart
+Items.VHard_50_RefBody_Weapon1.crosshair: Crosshairs.SmartGun
+
+Items.Preset_Defender_Kurt.evolution: WeaponEvolution.Smart
+Items.Preset_Defender_Kurt.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Military.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Military.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Pimp.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Pimp.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Default.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Default.crosshair: Crosshairs.SmartGun
+
+Items.Panzer_Counter_Measures_Launcher.evolution: WeaponEvolution.Smart
+Items.Panzer_Counter_Measures_Launcher.crosshair: Crosshairs.SmartGun
+
+Items.Panam_Vehicle_Weapon.evolution: WeaponEvolution.Smart
+Items.Panam_Vehicle_Weapon.crosshair: Crosshairs.SmartGun
+
+Items.w_special_flak.evolution: WeaponEvolution.Smart
+Items.w_special_flak.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Sasquatch.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Sasquatch.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_turret_car_attach.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_turret_car_attach.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Metalstorm_Raise_Sequence.evolution: WeaponEvolution.Smart
+Items.Chimera_Metalstorm_Raise_Sequence.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Neon.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Neon.crosshair: Crosshairs.SmartGun
+
+Items.Panzer_Cannon.evolution: WeaponEvolution.Smart
+Items.Panzer_Cannon.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Chopper.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Chopper.crosshair: Crosshairs.SmartGun
+
+Items.Preset_HMG_Invisible.evolution: WeaponEvolution.Smart
+Items.Preset_HMG_Invisible.crosshair: Crosshairs.SmartGun
+
+Items.Smasher_HMG.evolution: WeaponEvolution.Smart
+Items.Smasher_HMG.crosshair: Crosshairs.SmartGun
+
+Items.CPO_HMG.evolution: WeaponEvolution.Smart
+Items.CPO_HMG.crosshair: Crosshairs.SmartGun
+
+Items.Base_HMG.evolution: WeaponEvolution.Smart
+Items.Base_HMG.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Metalstorm.evolution: WeaponEvolution.Smart
+Items.Chimera_Metalstorm.crosshair: Crosshairs.SmartGun
+
+Items.Chimera_Metalstorm_Explosive.evolution: WeaponEvolution.Smart
+Items.Chimera_Metalstorm_Explosive.crosshair: Crosshairs.SmartGun
+

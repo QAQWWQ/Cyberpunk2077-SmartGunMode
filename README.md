@@ -3,8 +3,16 @@
 给《赛博朋克 2077》的普通 Power 武器加上智能枪的**锁定框、秒锁和追踪弹道**。
 Tech 武器保持原样；原生智能枪不会被修改。
 
-> 测试环境：游戏 2.31（build 5294808）、RED4ext 1.30.0、TweakXL 1.11.4、redscript/scc 0.5.31。
+> 测试环境：游戏 2.5（3.0.88.46235）、RED4ext 1.30.0、redscript/scc 0.5.32。
+> TweakXL 需要支持 2.5 的版本（官方尚未发布；开发中使用上游 PR #22 的构建验证）。
 > 不包含任何游戏资源文件；仅通过 TweakDB 记录名与 redscript 实现。
+
+## 游戏 2.5 兼容性
+
+- **v1.0.1 及更早版本仅适用于游戏 2.31，不要安装到 2.5**：旧版 TweakXL（1.11.4/1.11.5）在 2.5 下会导致游戏启动崩溃。
+- 本 mod 的文件（`smartgun_mode.reds` + `smartgun_smart_full.yaml`）已在 2.5 下编译并实测通过，无需修改。
+- 但 **TweakXL 官方尚未发布 2.5 兼容版**。在官方版本发布前，请勿在 2.5 上安装本 mod；发布后将提供 v1.0.2。
+- 同时需要：redscript 0.5.32、RED4ext 1.30.0；使用 CET 的话请升级到 1.38.0。
 
 ## 功能
 
@@ -22,11 +30,10 @@ Tech 武器保持原样；原生智能枪不会被修改。
 
 | 依赖 | 版本 |
 |---|---|
-| RED4ext | 1.30.0（已测） |
-| TweakXL | 1.11.4（已测） |
-| redscript / scc | 0.5.31（游戏 2.31 自带 `engine/tools/scc.exe`） |
-
-不需要 CET。
+| RED4ext | 1.30.0（2.5 可用） |
+| TweakXL | **需要 2.5 兼容版；官方尚未发布**（开发验证用上游 PR #22 构建的 1.11.6） |
+| redscript / scc | 0.5.32（游戏 2.5 使用） |
+| CET（可选） | 1.38.0（非必需，仅用于控制台/其它 CET mod） |
 
 ## 安装 / 启用
 
@@ -111,7 +118,9 @@ TweakXL converts 710 Power weapon records to the Smart evolution with the SmartG
 a small redscript applies the smart projectile package and smart stats to the player's converted
 weapon at equip time. Tech weapons are excluded and keep their charge/pierce behavior. Native
 smart weapons are left untouched. Use `enable.bat` / `disable.bat` and restart the game to toggle.
-Requires RED4ext, TweakXL and redscript/scc. Tested on game 2.31.
+Requires RED4ext, TweakXL and redscript/scc. Tested on game 2.5 (3.0.88.46235);
+TweakXL must be a 2.5-compatible build, and the official release is not out yet.
+v1.0.1 and earlier support game 2.31 only and will crash at startup on 2.5.
 
 ## License
 

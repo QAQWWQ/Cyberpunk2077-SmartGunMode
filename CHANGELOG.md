@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased — game 2.5 compatibility
+
+- Game 2.5 (3.0.88.46235) compatibility verified for the mod files; no
+  script or yaml changes are required.
+- Game 2.5 requires redscript 0.5.32 and, if used, CET 1.38.0.
+- **Blocked on TweakXL**: the official TweakXL has no 2.5-compatible release
+  yet. v1.0.2 will be published after it ships.
+- v1.0.1 and earlier support game 2.31 only. On 2.5, the old TweakXL
+  (1.11.4/1.11.5) crashes the game at startup — do not install v1.0.1 on 2.5.
+
 ## 1.0.1 — 2026-10-18
 
 - Fix: bullets stopped tracking after equip. The game resets the weapon's
